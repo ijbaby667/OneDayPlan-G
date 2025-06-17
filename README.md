@@ -27,4 +27,5 @@ A fun, simple web app that generates creative one-day activity plans for friends
 
 ## 💡 Idea Behind It
 
-This project was designed as part of a job portfolio — something light, interactive, and user-friendly to showcase front-end skills and attention to user experience.
+This project was designed as part of a job portfolio something light, interactive, and user-friendly to showcase front-end skills and attention to user experience.
+updated by Loveth
