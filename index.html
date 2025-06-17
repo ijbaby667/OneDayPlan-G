@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>OneDayPlan Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="toggle-wrapper">
+      <label class="switch">
+        <input type="checkbox" id="darkToggle" />
+        <span class="slider"></span>
+      </label>
+      <span class="toggle-label">Dark Mode</span>
+    </div>
+
+    <h1>🎉 OneDayPlan Generator</h1>
+    <p>Click the button to get a fun plan for the day!</p>
+    <button id="generateBtn">Generate Plan</button>
+
+    <div id="planOutput" class="plan-card hidden">
+      <!-- plan will be inserted here --> 
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
